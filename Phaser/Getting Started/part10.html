@@ -40,6 +40,7 @@ var cursors;
 var score = 0;
 var gameOver = false;
 var scoreText;
+var doubleJump = true;
 
 var game = new Phaser.Game(config);
 
@@ -156,9 +157,14 @@ function update ()
         player.anims.play('turn');
     }
 
-    if (cursors.up.isDown && player.body.touching.down)
+    if (cursors.up.isDown)
     {
         player.setVelocityY(-330);
+    }
+
+    if (cursors.down.isDown)
+    {
+        player.setVelocityY(330);
     }
 }
 
