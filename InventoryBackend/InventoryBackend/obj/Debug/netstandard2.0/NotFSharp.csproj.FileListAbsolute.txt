@@ -1,0 +1,17 @@
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\NotFSharp.deps.json
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\NotFSharp.dll
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\NotFSharp.pdb
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\obj\Debug\netstandard2.0\NotFSharp.AssemblyInfoInputs.cache
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\obj\Debug\netstandard2.0\NotFSharp.AssemblyInfo.cs
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\obj\Debug\netstandard2.0\NotFSharp.dll
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\obj\Debug\netstandard2.0\NotFSharp.pdb
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\obj\Debug\netstandard2.0\NotFSharp.csprojAssemblyReference.cache
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\armor.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\itemratio.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\Levels.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\MonItemPercent.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\monstats.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\monstats2.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\RarePrefix.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\TreasureClassEx.txt
+C:\Users\marco\source\repos\NotFSharp\NotFSharp\bin\Debug\netstandard2.0\data\global\excel\UniqueItems.txt
