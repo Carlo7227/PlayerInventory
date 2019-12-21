@@ -1,0 +1,9 @@
+E:\Godot\Projects\C# Inventory\.mono\temp\bin\Debug\C#Inventory.dll
+E:\Godot\Projects\C# Inventory\.mono\temp\bin\Debug\C#Inventory.pdb
+E:\Godot\Projects\C# Inventory\.mono\temp\bin\Debug\Newtonsoft.Json.dll
+E:\Godot\Projects\C# Inventory\.mono\temp\bin\Debug\Newtonsoft.Json.xml
+E:\Godot\Projects\C# Inventory\.mono\temp\obj\Debug\C#Inventory.csprojAssemblyReference.cache
+E:\Godot\Projects\C# Inventory\.mono\temp\obj\Debug\C#Inventory.csproj.CoreCompileInputs.cache
+E:\Godot\Projects\C# Inventory\.mono\temp\obj\Debug\C#Inventory.csproj.CopyComplete
+E:\Godot\Projects\C# Inventory\.mono\temp\obj\Debug\C#Inventory.dll
+E:\Godot\Projects\C# Inventory\.mono\temp\obj\Debug\C#Inventory.pdb
